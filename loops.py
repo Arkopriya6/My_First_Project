@@ -7,5 +7,5 @@ Created on Wed Feb  4 20:17:43 2026
 
 print("Counting from 1 to 5:")
 
-for i in range(1, 6):
+for i in range(1, 10):
     print(i)
